@@ -6,6 +6,14 @@ Me chamo Leandro! Essas são algumas das informações mais importantes sobre mi
 
 ###
 
+###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoeDVmOGp2NnExYnZiMHI5OHhhbnQ5MjRxcXM0NGt0N29ia2pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.webp"  />
+
+###
+
+
+
 ## Stacks:
 Estas são algumas das linguagens/frameworks que eu utilizo:
 
@@ -32,11 +40,6 @@ Estas são algumas das linguagens/frameworks que eu utilizo:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoeDVmOGp2NnExYnZiMHI5OHhhbnQ5MjRxcXM0NGt0N29ia2pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.webp"  />
-
-###
 
 
 
