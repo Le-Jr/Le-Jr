@@ -41,6 +41,11 @@ Estas são algumas das linguagens/frameworks que eu utilizo:
 
 
 
+###
+
+
+
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Le-Jr/Le-Jr/output/snake.svg" alt="Snake animation" />
