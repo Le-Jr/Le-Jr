@@ -2,56 +2,42 @@
 ## Seja Bem Vindo
 
 
-Me chamo Leandro! Essas são algumas das informações mais importantes sobre mim e meus códigos 😄
-
+Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jornada no mundo da programação
 ###
 
 
-
-
+###
+## Sobre mim
++ **👩‍💻 Cursando Tecnologia em Sistemas de Computação**
++ **🔥 Atualmente(27/08/2024) me especializando em NodeJs**
++ **📚 Nas minhas horas vagas estou lendo. Ultimamente foco nos livros Isaac Asimov**
 
 ###
-
-
-
-
-
 ###
+
+<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoeDVmOGp2NnExYnZiMHI5OHhhbnQ5MjRxcXM0NGt0N29ia2pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.webp"  />
 
 
 ###
 ## Stacks:
 Estas são algumas das linguagens/frameworks que eu utilizo:
 
-<div align = "right"><img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoeDVmOGp2NnExYnZiMHI5OHhhbnQ5MjRxcXM0NGt0N29ia2pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.webp"  /></div>
 
+[![My Skills](https://skillicons.dev/icons?i=js,react,sass,nodejs,express,mysql,bootstrap,python&theme=light&perline=)](https://skillicons.dev)
 
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
-</div>
 
 ###
 
 ## Status do GitHub:
 ![]()
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&show_icons=true&theme=tokyonight&border_radius=10&card_width=300px" alt=""></img>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=10" alt=""></img>
+
+   
+  <img src="https://streak-stats.demolab.com?user=Le-Jr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-
-
-
+###
 
 
