@@ -25,17 +25,16 @@ Estas são algumas das linguagens/frameworks que eu utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,sass,nodejs,express,mysql,bootstrap,python&theme=light&perline=)](https://skillicons.dev)
 
-
-
 <div>
-    ### Status do GitHub:
+ ### Status do GitHub:
     ![]()
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&show_icons=true&theme=tokyonight&border_radius=10&card_width=300px" alt=""></img>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=10" alt=""></img>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&show_icons=true&theme=tokyonight&border_radius=10&card_width=300px" alt=""></img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=10" alt=""></img>
     
        
-      <img src="https://streak-stats.demolab.com?user=Le-Jr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-    </div>
-
+<img src="https://streak-stats.demolab.com?user=Le-Jr&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+</div>
+   
+
