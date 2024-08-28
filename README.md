@@ -23,7 +23,7 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 Estas são algumas das linguagens/frameworks que eu utilizo:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,sass,nodejs,express,mysql,bootstrap,python,latex&theme=light&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,sass,nodejs,express,mysql,bootstrap,python,latex&theme=light)](https://skillicons.dev)
 
 
  ### Status do GitHub:
