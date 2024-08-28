@@ -28,7 +28,7 @@ Estas são algumas das linguagens/frameworks que eu utilizo:
 
  ### Status do GitHub:
  
-<div align="center">
+<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&show_icons=true&theme=tokyonight&border_radius=10&card_width=300px" alt=""></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=10" alt=""></img>
     
