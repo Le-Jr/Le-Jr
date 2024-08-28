@@ -19,7 +19,7 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 
 
 
-### Stacks:
+### Stack:
 Estas são algumas das linguagens/frameworks que eu utilizo:
 
 
