@@ -26,6 +26,7 @@ Estas são algumas das linguagens/frameworks que eu utilizo:
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,python,latex,vscode&theme=light)](https://skillicons.dev)
 
 ### Tecnologias em estudo:
+Estas são as tecnologias que eu estou estudando para me especializar:
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,styledcomponents,vue&theme=light)](https://skillicons.dev)
 
 
