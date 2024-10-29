@@ -10,8 +10,8 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 
 ## Sobre mim
 + **👩‍💻 Cursando Tecnologia em Sistemas de Computação**
-+ **🔥 Atualmente(27/08/2024) me especializando em NodeJs**
-+ **📚 Nas minhas horas vagas estou lendo. Ultimamente foco nos livros Isaac Asimov**
++ **🔥 Atualmente me especializando em Desenvolvimento Full-Stack**
++ **📚 Nas minhas horas vagas estou lendo. Ultimamente foco nos livros de Isaac Asimov**
 
 
 
@@ -23,7 +23,10 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 Estas são algumas das linguagens/frameworks que eu utilizo:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,sass,nodejs,express,mysql,bootstrap,python,latex&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,python,latex,vscode&theme=light)](https://skillicons.dev)
+
+### Tecnologias em estudo:
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,styledcomponents,vue&theme=light)](https://skillicons.dev)
 
 
  ### Status do GitHub:
