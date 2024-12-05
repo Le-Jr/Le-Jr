@@ -36,7 +36,7 @@ Estas são as tecnologias que eu estou estudando para me especializar:
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Le-Jr&show_icons=true&theme=tokyonight&border_radius=10&card_width=300px" alt=""></img>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Le-Jr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&border_radius=10" alt=""></img>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Le-Jr&theme=tokyonight)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Le-Jr&theme=tokyonight" alt="GitHub Streak" /></a>
 </div>
    
 
