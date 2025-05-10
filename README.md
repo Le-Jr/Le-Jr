@@ -2,7 +2,7 @@
 ## Seja Bem Vindo
 
 
-Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jornada no mundo da programação
+Me chamo **Leandro Junior!** — Sou Desenvolvedor Full Stack focado em criar aplicações web completas, do servidor à interface
 ###
 
 <img align="center" height="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGtoeDVmOGp2NnExYnZiMHI5OHhhbnQ5MjRxcXM0NGt0N29ia2pkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/B6SyssSlTgPXq/giphy.webp"  />
