@@ -23,12 +23,12 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 Estas são algumas das tecnologias que eu uso:
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,node,sass,flask,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,js,sass,flask,mysql&theme=light)](https://skillicons.dev)
 
 ### Tecnologias em estudo:
 Estas são as tecnologias que eu estou estudando para me especializar:
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,mysql&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nest,prisma,tailwind&theme=light)](https://skillicons.dev)
 
 
  ### Status do GitHub:
