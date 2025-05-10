@@ -20,10 +20,10 @@ Me chamo **Leandro Junior!** Sou Desenvolvedor Full Stack, começando minha jorn
 
 
 ### Stack:
-Estas são algumas das linguagens/frameworks que eu utilizo:
+Estas são algumas das tecnologias que eu uso:
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,js,sass,bootstrap,neovim&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,node,sass,flask,mysql&theme=light)](https://skillicons.dev)
 
 ### Tecnologias em estudo:
 Estas são as tecnologias que eu estou estudando para me especializar:
